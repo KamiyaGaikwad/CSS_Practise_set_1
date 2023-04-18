@@ -1,0 +1,118 @@
+body {
+  font-family: serif;
+}
+
+h1.heading-1 {
+  font-size: 36px;
+  color: #333333;
+  margin-bottom: 20px;
+}
+
+p.para-1 {
+  font-size: 18px;
+  color: #666666;
+  line-height: 1.5;
+}
+
+.list {
+  font-size: 18px;
+  color: #333333;
+  padding: 10px;
+  list-style: none;
+}
+
+.list li {
+  border: 1px solid #cccccc;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  padding: 10px;
+}
+
+.list-two {
+  font-size: 18px;
+  color: #333333;
+  font-weight: 800;
+  padding: 15px;
+  list-style: none;
+}
+
+.list-two li {
+  outline: 1px dashed red;
+  border-radius: 5px;
+  text-align: center;
+  margin-bottom: 5px;
+  padding: 10px;
+}
+
+.email-input {
+  border: 1px solid #cccccc;
+  padding: 10px;
+  font-size: 18px;
+  margin-right: 10px;
+}
+
+.submit-email-btn {
+  background: #333333;
+  color: #ffffff;
+  font-size: 18px;
+  padding: 10px 20px;
+  border: none;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  background: #ffffff;
+  margin: 20px;
+  width: fit-content;
+  padding: 5px;
+}
+
+.card h2 {
+  font-size: 24px;
+  color: #333333;
+  margin: 10px;
+}
+
+.card p {
+  font-size: 18px;
+  color: #666666;
+  margin: 10px;
+}
+
+.card-two {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  background: #f9f9f9;
+  margin: 20px;
+  width: fit-content;
+  padding: 5px;
+}
+
+.card-two h2 {
+  font-size: 24px;
+  color: #333333;
+  margin: 10px;
+}
+
+.card-two button {
+  background: #333333;
+  color: #ffffff;
+  padding: 10px 20px;
+  margin: 10px;
+  border: none;
+  border-radius: 5px;
+}
+
+.search-bar {
+  width: 400px;
+  height: 40px;
+  border: 1px solid #cccccc;
+  margin: 10px 0;
+  padding: 0 20px;
+  background: white;
+  color: #999999;
+  font-family: "Open Sans";
+  font-size: 16px;
+  font-weight: 400;
+}
